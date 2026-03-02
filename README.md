@@ -9,7 +9,7 @@
 </p>
 
 **owLSM** aspires to become the gold standard for prevention and detection on Linux systems.  
-While projects like Sysdig and others excel at tracing and observability, real and scalable **inline prevention** remains an unsolved challenge.  
+While projects like Sysdig and others excel at tracing and observability, real anad scalable **inline prevention** remains an unsolved challenge.  
 Using eBPF LSM hooks, owLSM brings powerful, rules-based protection directly into the kernel.  
 We focus on:
 - Implementing sigma rules engine in the kernel

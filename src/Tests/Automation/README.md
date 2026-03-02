@@ -1,5 +1,5 @@
 owLSM automation tests. Test different components of the owLSM.  
-We use the ***pytest bdd*** as the testing framework  
+We use the ***pytest bdd*** as the testing framework  !
 
 # Setup
 
